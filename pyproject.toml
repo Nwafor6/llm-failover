@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "BildBridge Team"}
+    {name = "Nwafor Glory"}
 ]
 keywords = ["llm", "ai", "openai", "anthropic", "gemini", "grok", "deepseek", "failover"]
 classifiers = [
@@ -43,9 +43,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/bildbridge/llm-failover"
-Repository = "https://github.com/bildbridge/llm-failover"
-Issues = "https://github.com/bildbridge/llm-failover/issues"
+Homepage = "https://github.com/Nwafor6/llm-failover"
+Repository = "https://github.com/Nwafor6/llm-failover"
+Issues = "https://github.com/Nwafor6/llm-failover/issues"
 
 [tool.hatch.build.targets.sdist]
 include = [
