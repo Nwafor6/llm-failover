@@ -7,6 +7,7 @@ Gemini, Grok, DeepSeek) with priority ordering and automatic fallback when provi
 
 from .base import AIAgentClient
 from .factory import AIClientFactory
+from .main import ChatClient
 
 __version__ = "0.1.0"
-__all__ = ["AIClientFactory", "AIAgentClient"]
+__all__ = ["AIClientFactory", "AIAgentClient", "ChatClient"]
